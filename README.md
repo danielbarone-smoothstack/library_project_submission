@@ -3,6 +3,13 @@ Members: Cole Trumbo, Daniel Barone, Kevin Lai, Rory Burke
 
 # Library Project
 
+## Running Program
+* Requirements: Python 3+, mysql-connector-python
+* Navigate to project directory
+```
+python driver.py
+```
+
 ## driver.py
 * Main driver of the program
 * Runs on while loop prompting menu options
