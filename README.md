@@ -1,5 +1,5 @@
-# Team RoughQueue
-## Members: Cole Trumbo, Daniel Barone, Kevin Lai, Rory Burke
+## Team RoughQueue
+### Members: Cole Trumbo, Daniel Barone, Kevin Lai, Rory Burke
 
 # Library Project
 
