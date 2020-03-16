@@ -4,17 +4,14 @@ Members: Cole Trumbo, Daniel Barone, Kevin Lai, Rory Burke
 # Library Project
 
 ## driver.py
-'''
 * Main driver of the program
 * Runs on while loop prompting menu options
 * When the selection is made, the corresponding class' driver function is called
 
     - main()
     - entryPrompt()
-'''
 
 ## user.py
-'''
 * Polymorphism
 * Admin, Librarian, and Borrower are subclasses
 
@@ -25,10 +22,8 @@ Members: Cole Trumbo, Daniel Barone, Kevin Lai, Rory Burke
     - print_menu()
     - print_submenu()
     - prompt_options()
-'''
 
 ## librarian.py
-'''
 * Update Branch Details
 * Add Copies to Book
 
@@ -37,10 +32,8 @@ Members: Cole Trumbo, Daniel Barone, Kevin Lai, Rory Burke
     - LIB3()
     - add_copies()
     - update_lib_details()
-'''
 
 ## borrower.py
-'''
 * Checkout Book
 * Return Book 
 
@@ -48,23 +41,16 @@ Members: Cole Trumbo, Daniel Barone, Kevin Lai, Rory Burke
     - check_card_valid()
     - checkout_book()
     - return_book()
-'''
 
 ## administrator.py
-'''
 * AUD book and author, publishers, library branches, borrowers, override due date
 
-'''
 
 ## procedures.py
-'''
 * Connection
-'''
 
 ## library_objects.py
-'''
     - Book
     - BookLoan
     - Branch
     - Publisher
-'''
